@@ -1,0 +1,13 @@
+# Target labels
+ tfm
+# Source files and their labels
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/CMakeFiles/tfm
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/CMakeFiles/tfm.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule
+/Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule

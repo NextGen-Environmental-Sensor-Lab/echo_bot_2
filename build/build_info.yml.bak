@@ -1,0 +1,6 @@
+west:
+  command: /opt/nordic/ncs/toolchains/15b490767d/bin/west build --build-dir /Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2/build
+    /Users/ngensadmin/Documents/Actinius_icarus_nrf9160/echo_bot_2 --pristine --board
+    actinius_icarus/nrf9160/ns --no-sysbuild -- -DNCS_TOOLCHAIN_VERSION=NONE
+  topdir: /opt/nordic/ncs/v2.8.0
+  version: 1.2.0

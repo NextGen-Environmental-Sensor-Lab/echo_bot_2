@@ -1,0 +1,20 @@
+{
+  "toolchainPath": "/opt/nordic/ncs/toolchains/15b490767d",
+  "sdkPath": "/opt/nordic/ncs/v2.8.0",
+  "board": "actinius_icarus/nrf9160/ns",
+  "boardDirs": [
+    "/opt/nordic/ncs/v2.8.0/zephyr/boards/actinius/icarus"
+  ],
+  "boardRevision": "",
+  "boardDir": "/opt/nordic/ncs/v2.8.0/zephyr/boards/actinius/icarus",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": [],
+  "sysbuild": false
+}
